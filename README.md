@@ -75,9 +75,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayanth-45&theme=radical&no-frame=true&no-bg=true&column=5&margin-w=10" alt="trophies row 1" />
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=jayanth-45&theme=radical&no-frame=true&no-bg=true&column=5&rank=A,AA,AAA,S,SS,SSS,SECRET&margin-w=10" alt="trophies row 2" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jayanth-45&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies" />
 </p>
 
 <br/>
