@@ -73,11 +73,23 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayanth-45&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies" />
-</p>
+## Trophies
 
+<div align="center">
+  
+  ![Trophy-MultiLanguage](https://img.shields.io/badge/Trophy-Multi_Language-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Commits](https://img.shields.io/badge/Trophy-Commits-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Repositories](https://img.shields.io/badge/Trophy-Repositories-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Stars](https://img.shields.io/badge/Trophy-Stars-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Followers](https://img.shields.io/badge/Trophy-Followers-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-PullRequests](https://img.shields.io/badge/Trophy-Pull_Requests-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Issues](https://img.shields.io/badge/Trophy-Issues-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Reviews](https://img.shields.io/badge/Trophy-Reviews-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Experience](https://img.shields.io/badge/Trophy-Experience-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  ![Trophy-Joined2024](https://img.shields.io/badge/Trophy-Joined_2024-FFD700?style=for-the-badge&logo=github&logoColor=white)
+  
+  </div>
+  
 <br/>
 
 ## 📊 Analytics & Stats
